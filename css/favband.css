@@ -8,6 +8,21 @@
 }
 
 .album {
-  width: 300px;
+  width: 20%;
   float: left;
+  margin: 12px;
+  border: 2px;
+  padding: 4px;
+  background-color: orange;
+}
+
+.sidebar {
+  float: right;
+  width: 20%;
+  height: 1300px;
+  background-color: black;
+}
+
+img{
+  padding: 7px;
 }
