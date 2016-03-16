@@ -1,0 +1,13 @@
+.titlestyle {
+  font-style: italic;
+  color: red;
+}
+
+.intro {
+
+}
+
+.album {
+  width: 300px;
+  float: left;
+}
