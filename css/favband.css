@@ -3,8 +3,10 @@
   color: red;
 }
 
-.intro {
-
+body {
+  font-size: 14px;
+  font-family: cursive;
+  font-kerning: 1px;
 }
 
 .album {
@@ -14,13 +16,25 @@
   border: 2px;
   padding: 4px;
   background-color: orange;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .sidebar {
   float: right;
   width: 20%;
   height: 1300px;
-  background-color: black;
+  background-color: grey;
+  text-align: center;
+  margin: 6px;
+  border: 2px;
+  padding: 4px;
+}
+
+.sidebar ul {
+  text-align: left;
 }
 
 img{
